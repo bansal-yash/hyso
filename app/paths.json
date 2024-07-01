@@ -1,4 +1,4 @@
 {
-    "autfilt":"<...>/autfilt",
-    "ltl2tgba":"<...>/ltl2tgba"
+    "autfilt":"/opt/homebrew/Cellar/spot/2.12/bin/autfilt",
+    "ltl2tgba":"/opt/homebrew/Cellar/spot/2.12/bin/ltl2tgba"
 }
